@@ -15,7 +15,7 @@
 
 #### bootstrap.servers
 
-- 카프카 클러스터와 첫 연결을 위해 프로듀서가 사용할 브로커 host, port 목록
+- 카프카 클러스터와리 첫 연결을 위해 프로듀서가 사용할 브로커 host, port 목록
 - 첫 연결 후 추가 정보 받아와야 함
 
 #### key.serializer
